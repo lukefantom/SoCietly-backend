@@ -1,4 +1,19 @@
-# back-end-final-project-the-falcon-5ive
+# SoCietly
+
+## Community app for School of Code alumni
+### Keeping all bootcampers connected after the School of Code
+
+*December 2020 - January 2021 - 4 week project*
+
+![login-page](https://github.com/lukefantom/SoCietly-frontend/blob/main/public/societly-login.png)
+
+### The project brief
+
+*"How can we better keep track of ex-bootcampers after the course?"*
+
+We broke this down into a series of epics to monitor our progress as we worked on the problem. We wanted to focus two main sections: 
+- Career - The first job an alumnus has and their career trajectory as they advance on this new path.
+- Contact - How School of Code staff can manage their contact with alumni, including creating events to grow the community.
 
 This project was initalised with NPX Express Generator
 
