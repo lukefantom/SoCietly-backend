@@ -1,6 +1,6 @@
 # back-end-final-project-the-falcon-5ive
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was initalised with NPX Express Generator
 
 ## Available Scripts
 
